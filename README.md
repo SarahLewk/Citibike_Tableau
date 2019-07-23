@@ -2,6 +2,14 @@
 Citi Bike Analytics
 
 ![citibike](https://user-images.githubusercontent.com/46179696/61336265-96270600-a7e5-11e9-8482-2cfe8727771f.jpg)
+
+## Final Thoughts and Analysis
+I initially tried to merge several months of data together using python in Jupyter notebook but after doing so I realized the data sets 
+are just too large and was freezing the program so I ended up just using January 2019's data for my visualizations.
+
+In this data the findings show from a gender stand point that the majority of riders are men and they tend to have longer trip durations than women. From an age stand point it appears the average age of a rider falls between the ages of 19 and 39. Most user types are labeled as subscribers with a very small percentage labeled as customers.
+
+# Visualizations
 ![AVG trip by Age](https://user-images.githubusercontent.com/46179696/61336269-9b845080-a7e5-11e9-9eb2-0efe328ff153.png)
 ![Gender Dashboard](https://user-images.githubusercontent.com/46179696/61336272-9f17d780-a7e5-11e9-9223-d4e637c5c1e5.png)
 ![Start Station User Type](https://user-images.githubusercontent.com/46179696/61671871-47beaf00-ac9e-11e9-82a9-cdcd625e116c.png)
